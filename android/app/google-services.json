@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1026256568178",
+    "project_id": "datehack-8027b",
+    "storage_bucket": "datehack-8027b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026256568178:android:8d8d70b9cfc135350427eb",
+        "android_client_info": {
+          "package_name": "np.com.ayushojha.date_hack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026256568178-n0qtknu7e1kkoor9bdrv7gsiiplpeati.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFBNanBQFbgoLkc_IIJI21IfSjL7Qv-zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026256568178-n0qtknu7e1kkoor9bdrv7gsiiplpeati.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
